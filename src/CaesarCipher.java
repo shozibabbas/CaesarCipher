@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class CaesarCipher {
 
+    public static final int PORT_NUMBER = 5000;
+
     private static final String ENCRYPTION_STRING = "abcdefghijklmnopqrstuvwxyz";
     private static final int SHIFT_KEY = 9;
 
